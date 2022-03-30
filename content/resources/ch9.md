@@ -6,6 +6,7 @@ description: 'Lecture notes on Chapter 9: Threshold of Movement, Forces on Bed P
   Ratio.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-090-introduction-to-fluid-motions-sediment-transport-and-current-generated-sedimentary-structures-fall-2006/d74323848b9c8594ddc3f25d222ef361_ch9.pdf
 file_type: application/pdf
+parent_uid: 458e02b7-92d1-4fd1-189b-e8cb2d6d4f4a
 resourcetype: Document
 title: ch9.pdf
 uid: d7432384-8b9c-8594-ddc3-f25d222ef361
